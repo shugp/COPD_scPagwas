@@ -1,0 +1,134 @@
+[
+  {
+    "original": "code/03_Myeloid_trajectory.R",
+    "packaged": "analysis/03_Myeloid_trajectory.R",
+    "original_sha256": "208387b8d88ba0a885dc34fb9e8010d8deef03727f18d10603f9ecb34bdd6a6c",
+    "packaged_sha256": "ba57eb2404770f6ba3b373372169dd9c9fd24d868e5906d549a5206a30892c87"
+  },
+  {
+    "original": "code/04_Myeloid_disease_pathways.R",
+    "packaged": "analysis/04_Myeloid_disease_pathways.R",
+    "original_sha256": "f38a510d871994a904b994766943f0a62b8bd5c608791943a2d093a500a2ef4b",
+    "packaged_sha256": "9762d6a8cf11a0fce3381f176126b49c678cd7b4201c3a6f5cf6b4c1d4af3e19"
+  },
+  {
+    "original": "code/scPagwas_fast_helpers.R",
+    "packaged": "analysis/scPagwas_fast_helpers.R",
+    "original_sha256": "314eb38420e98bf75bf25d1873fd4f46c141b668044c580c096827e884b7c848",
+    "packaged_sha256": "314eb38420e98bf75bf25d1873fd4f46c141b668044c580c096827e884b7c848"
+  },
+  {
+    "original": "code/06_Myeloid_result_panels.R",
+    "packaged": "analysis/06_Myeloid_result_panels.R",
+    "original_sha256": "453a32bc18f786876128d0590ec0da4031214f9112a1e71e85662bc5fe59f271",
+    "packaged_sha256": "453a32bc18f786876128d0590ec0da4031214f9112a1e71e85662bc5fe59f271"
+  },
+  {
+    "original": "code/01_scPagwas_fast.R",
+    "packaged": "analysis/01_scPagwas_fast.R",
+    "original_sha256": "a9094df06c752dc2170431dc00740d24de4c658c276f3529abf7d4f9f7ced66e",
+    "packaged_sha256": "2ce94624110f432abdccc02e69fd3e4acd046a5bdcb817b8c1d2a60cc4b4aedf"
+  },
+  {
+    "original": "code/07_Myeloid_differential_association.R",
+    "packaged": "analysis/07_Myeloid_differential_association.R",
+    "original_sha256": "a8a740cd5cecb2f9c5a1065041290bb116178bed0058462a939124e8c40fbbd8",
+    "packaged_sha256": "4c828c8c60fcbf89e4fa64616f1d40f9a01432dea4dfbe89fa99f75f4f3e1fbd"
+  },
+  {
+    "original": "code/myeloid_antigen_function.R",
+    "packaged": "analysis/myeloid_antigen_function.R",
+    "original_sha256": "91a9056a98383938add1d656a4dbdb3f845e1dff952d72178ddddf782e91fddd",
+    "packaged_sha256": "91a9056a98383938add1d656a4dbdb3f845e1dff952d72178ddddf782e91fddd"
+  },
+  {
+    "original": "code/02_Myeloid.R",
+    "packaged": "analysis/02_Myeloid.R",
+    "original_sha256": "5d707ea9887c6c566e2f8ca50c4f1337dd38d2350ca314b536eed402a6e3f0a1",
+    "packaged_sha256": "daf5749c5feacf56a78884e595f5d3d42d4ebcecccd1a6892085c00ec14fef6b"
+  },
+  {
+    "original": "code/myeloid_coloc.R",
+    "packaged": "analysis/myeloid_coloc.R",
+    "original_sha256": "be2827376443fd0a1811f792276e15f50486170f57cee8ebc969b11f1e62873b",
+    "packaged_sha256": "fda1ab403ef383049d8a7b32d96c53ab309d3b49251f86002fb7619b623fc283"
+  },
+  {
+    "original": "code/myeloid_all_pathway_mixed_models.R",
+    "packaged": "analysis/myeloid_all_pathway_mixed_models.R",
+    "original_sha256": "c3947f9c9426b5c315cd04a783a0f4ee3d677a68d6fa5e2644e52dd79cc2103a",
+    "packaged_sha256": "c3947f9c9426b5c315cd04a783a0f4ee3d677a68d6fa5e2644e52dd79cc2103a"
+  },
+  {
+    "original": "code/myeloid_annotation.R",
+    "packaged": "analysis/myeloid_annotation.R",
+    "original_sha256": "081426315ba12f4fc3b63de1bece98be6dfb1a2d9266b03f52536c5a900de5d9",
+    "packaged_sha256": "081426315ba12f4fc3b63de1bece98be6dfb1a2d9266b03f52536c5a900de5d9"
+  },
+  {
+    "original": "code/08_Myeloid_pathway_pseudotime.R",
+    "packaged": "analysis/08_Myeloid_pathway_pseudotime.R",
+    "original_sha256": "eefb04d695000d53a4afc1962c9a76d990d3b081c793c94dfad99a263ee42e41",
+    "packaged_sha256": "2c9f38777758c8d914b1d86ab1ed752aa9cfe96d9329e3d3ceacd23b2ea0067a"
+  },
+  {
+    "original": "code/myeloid_markers.R",
+    "packaged": "analysis/myeloid_markers.R",
+    "original_sha256": "8ec039ddf04445edcbfab5493b61dd7e1501830e42474b62f9c69ac922f53f2f",
+    "packaged_sha256": "8ec039ddf04445edcbfab5493b61dd7e1501830e42474b62f9c69ac922f53f2f"
+  },
+  {
+    "original": "code/myeloid_pathway_screen_curves.R",
+    "packaged": "analysis/myeloid_pathway_screen_curves.R",
+    "original_sha256": "034a0273b8762485eadbf53ffd708dac677eb146885af25ea61ee2b7a7164ce9",
+    "packaged_sha256": "034a0273b8762485eadbf53ffd708dac677eb146885af25ea61ee2b7a7164ce9"
+  },
+  {
+    "original": "code/myeloid_pathway_source_curve_sensitivity.R",
+    "packaged": "analysis/myeloid_pathway_source_curve_sensitivity.R",
+    "original_sha256": "c96a40841a5e485df8fcd797e84c3e0a7504ec31d9217850c627d60b503609f2",
+    "packaged_sha256": "c96a40841a5e485df8fcd797e84c3e0a7504ec31d9217850c627d60b503609f2"
+  },
+  {
+    "original": "code/05_Myeloid_plots.py",
+    "packaged": "analysis/05_Myeloid_plots.py",
+    "original_sha256": "5127a262a74b16cea86d079ab20b05d63e21d024f011731847dd0d3a33c5fead",
+    "packaged_sha256": "8cbefb5452636f569dead32ffbf1b08c462146d4a1a92a06f57d576eb8fdac18"
+  },
+  {
+    "original": "code/myeloid_gsea.py",
+    "packaged": "analysis/myeloid_gsea.py",
+    "original_sha256": "29e3f85e499b85f6b76bdcffce1940886d386a3955ab9b96dd3fc1b7d780dee3",
+    "packaged_sha256": "92fedc7bb07e0bb242eec0716fe4ae298747bbddb1f16c745d636d48a99491e9"
+  },
+  {
+    "original": "code/myeloid_pathway_pseudotime.py",
+    "packaged": "analysis/myeloid_pathway_pseudotime.py",
+    "original_sha256": "e7d2264d80d13e358d2f5fb957e32c997162f340a1870290696dc36b1ff5bf68",
+    "packaged_sha256": "9d49b7efe43eaa125aa718927a09dde7285abb2637a9cf9c0b9f5a269cd5c30e"
+  },
+  {
+    "original": "code/myeloid_differential_association_sensitivity.py",
+    "packaged": "analysis/myeloid_differential_association_sensitivity.py",
+    "original_sha256": "9e10b50755f84e983227ef113f76c0c17d365a8c6d5a703674fc81746ca17552",
+    "packaged_sha256": "4ff594b6463fc884cdd464a72b77e33a8fbccd94524034a7d5a8ac0d584cbaea"
+  },
+  {
+    "original": "code/myeloid_trajectory.py",
+    "packaged": "analysis/myeloid_trajectory.py",
+    "original_sha256": "058e2826d68726595ec9e8a2617d723699c243b9834d6800d3d12954412b4305",
+    "packaged_sha256": "e1ad017ea35e3530abdf3152bce3682b6cbf1fef96eeea7fb5015865e249c7b0"
+  },
+  {
+    "original": "code/myeloid_result_panels.py",
+    "packaged": "analysis/myeloid_result_panels.py",
+    "original_sha256": "913bdeec8f6fcfe3a873688436110a0670c8c4e4b5838ab4f279f998eb1f21fa",
+    "packaged_sha256": "9b6ef883bd79df5748b664197fdfd215557232e87351423300cc22e64e51cc4d"
+  },
+  {
+    "original": "code/myeloid_differential_association.py",
+    "packaged": "analysis/myeloid_differential_association.py",
+    "original_sha256": "522379d3a568bede9dcb2cedc61cbe1724916fe27d56bd184fb1bf6c8f5e8795",
+    "packaged_sha256": "ea343c98d6d5812873bd6aa92aa221c291a2ff7af3d60c5a02a344fc29bd1bb4"
+  }
+]

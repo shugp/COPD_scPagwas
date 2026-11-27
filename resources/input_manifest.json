@@ -1,0 +1,79 @@
+{
+  "purpose": "Checksums of the existing figure inputs used to validate this code package; data files are not bundled.",
+  "files": [
+    {
+      "path": "gPAS/scPagwas.inte_all.bar_positie_nagtive1.pdf",
+      "size_bytes": 4829,
+      "sha256": "dbb0f1e65776cd8cc557696febbf5d3b32adc89940a062558e7d3050c6b43848"
+    },
+    {
+      "path": "Myeloid/trajectory/cell_pseudotime_state.csv",
+      "size_bytes": 10473020,
+      "sha256": "3c630c4aadc7c5df944a6b0529155559f6027eb80dafaaf45dd458cd53ab8fe4"
+    },
+    {
+      "path": "Myeloid/results_cleaned/umap_coordinates.csv",
+      "size_bytes": 5884661,
+      "sha256": "33cccaa0894b13dc37402287070501ce4e628441e4b27c52f6a4f3c8dcb2c81e"
+    },
+    {
+      "path": "Myeloid/results_cleaned/annotation_marker_expression.csv",
+      "size_bytes": 7381,
+      "sha256": "208d3c3dd7961abcc843a16432a1a35d2b1038ad66ddd0c6b46aca483b7bcfcd"
+    },
+    {
+      "path": "Myeloid/results_cleaned/coloc_overall_gene_tests.csv",
+      "size_bytes": 4154,
+      "sha256": "c8f53877b3c4f5003ea2020187dde733c5aa8513dd93c34e51cb9a823d1de894"
+    },
+    {
+      "path": "Myeloid/disease_pathways/gsea_all_results.csv",
+      "size_bytes": 4502844,
+      "sha256": "100fc6f3ca51c7bb83f259966f7de28724833416981c9266a3f1899808dde4db"
+    },
+    {
+      "path": "Myeloid/disease_pathways/antigen_residual_coexpression.csv",
+      "size_bytes": 7556,
+      "sha256": "f7ffb80cac443b6f3db28cbb60a9f9a06c633088677d2a8fcc5a4ec4182ab6f6"
+    },
+    {
+      "path": "Myeloid/disease_pathways/candidate_module_reactome_enrichment.csv",
+      "size_bytes": 1402351,
+      "sha256": "3a97570c68e767188a3151f27b804c2c19ab9f17fc9c8782cedd2bcb3a1e435b"
+    },
+    {
+      "path": "Myeloid/disease_pathways/Reactome_2022.gmt",
+      "size_bytes": 778913,
+      "sha256": "cfe1adc75aa3137ba74c1b35a3098e88ea1708b204e5edfd788092b7ef5c08f8"
+    },
+    {
+      "path": "Myeloid/disease_pathways/pathway_pseudotime/antigen_pathway_fitted_curves.csv",
+      "size_bytes": 170262,
+      "sha256": "c4a1a257c1abeca74653ac32fea8be7821373d791621aaff3ce0a6097d766631"
+    },
+    {
+      "path": "Myeloid/disease_pathways/pathway_pseudotime/antigen_pathway_disease_pseudotime_tests.csv",
+      "size_bytes": 1031,
+      "sha256": "dba5193a753c287cc2d0fd885be790c723a6cc36e24dfe03e48edfbad3ef7690"
+    },
+    {
+      "path": "Myeloid/disease_pathways/pathway_pseudotime/antigen_source_curve_sensitivity.csv",
+      "size_bytes": 606,
+      "sha256": "6e88e7586d8849f62a3b64fcf33dafa194ee991e3a469ca671109de1798857c4"
+    },
+    {
+      "path": "coloc.CSV",
+      "size_bytes": 17030,
+      "sha256": "ff3079ff2d6b8bee9a5d13f1117203b343269a0f140827d41dfb96d1dfd95a8e"
+    },
+    {
+      "path": "Myeloid/disease_pathways/MSigDB_Hallmark_2020.gmt",
+      "size_bytes": 44235,
+      "sha256": "4275592957a1587652092bb398cf77216fde5b8daa2aedaa0e016f7d10bbdb81"
+    }
+  ],
+  "gene_set_sources": {
+    "Reactome_2022": "https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=Reactome_2022",
+    "MSigDB_Hallmark_2020": "https://maayanlab.cloud/Enrichr/geneSetLibrary?mode=text&libraryName=MSigDB_Hallmark_2020"
+  }
+}
